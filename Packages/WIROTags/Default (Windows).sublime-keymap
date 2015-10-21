@@ -1,0 +1,17 @@
+[
+    {
+        "keys": ["alt+1"], "command": "insert_wiro_pc"
+    },
+    {
+        "keys": ["alt+2"], "command": "insert_wiro_sp"
+    },
+    {
+        "keys": ["alt+3"], "command": "insert_wiro_mb"
+    },
+    {
+        "keys": ["alt+4"], "command": "insert_wiro_no_mb"
+    },
+    {
+        "keys": ["alt+0"], "command": "save_wiro"
+    }
+]

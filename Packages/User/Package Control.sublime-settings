@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSS3",
+		"Emmet",
+		"GitGutter",
+		"Hayaku - tools for writing CSS faster",
+		"HTML-CSS-JS Prettify",
+		"HTMLAttributes",
+		"Local History",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"Smart Delete",
+		"Sublime Files",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Tag",
+		"Terminal",
+		"Theme - Flatland",
+		"TrailingSpaces"
+	]
+}
