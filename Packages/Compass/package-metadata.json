@@ -1,0 +1,1 @@
+{"platforms": ["*"], "sublime_text": "*", "description": "Compass Build System for Sublime Text", "dependencies": [], "url": "https://github.com/whatwedo/sublime-text-compass", "version": "1.0.16"}

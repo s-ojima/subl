@@ -1,0 +1,4796 @@
+{
+	"folder_history":
+	[
+		"/Library/Ruby/Gems/2.0.0/gems",
+		"/Users/beeworks/work/sugotoku/dev/html_divided",
+		"/Users/beeworks/work/cojp",
+		"/Users/beeworks/work/kks",
+		"/Users/beeworks/work/snk_jr3/www",
+		"/Users/beeworks/work/snk_jr3/www/special",
+		"/Users/beeworks/work/rins/deploy",
+		"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide",
+		"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド",
+		"/Users/beeworks/work/snk_jr3/www/special/sst",
+		"/Users/beeworks/work/sugotoku/dev",
+		"/Users/beeworks/work/snk_jr3",
+		"/Users/beeworks/work/smile-zemi/deploy",
+		"/Users/beeworks/work/sb-csr_2015/corp",
+		"/Users/beeworks/work/rins/deploy/en",
+		"/Users/beeworks/work/rins",
+		"/Users/beeworks/Desktop/ricoh2013",
+		"/Users/beeworks/Downloads/ricoh2013",
+		"/Users/beeworks/work/sb-study/lesson/ojima",
+		"/Users/beeworks/work/m-int",
+		"/Users/beeworks/work/sb-csr_2015",
+		"/Users/beeworks/work/github-r_cojp-2015_01",
+		"/Volumes/Web-01/リコーアド/【R】VCイベント/12_コーディング/151001",
+		"/Users/beeworks/work/github-r_industry_com",
+		"/Users/beeworks/work/slide-1"
+	],
+	"last_version": 3083,
+	"last_window_id": 69,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1035.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/beeworks/work/kks/service/lecture/serve.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-3.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-2.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-1.html",
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"                  <p class=\"play\">試聴する</p>",
+					"修一、菅沼",
+					">\n",
+					"\n	",
+					" <img src=\"/special/sst/sp/common/images/point/sp_nav_pt",
+					"point-section",
+					"\"point-section",
+					"content-index",
+					"adMenu_close",
+					"data-point-content-index",
+					"10月",
+					"月",
+					"10",
+					"10月",
+					"10",
+					"月",
+					"10",
+					">\n",
+					"10",
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1916.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">",
+					"ご注意事項",
+					"wiro_mb",
+					"お支払いに関しての注意事項",
+					"guide",
+					"FA System",
+					"/past/fa_system.html/",
+					"height=\"50\" width=\"50	\" ",
+					"height=\"50\" width=\"50	\"",
+					".jpg",
+					"<p class=\"txtbold\">",
+					"<link href=\"/gn_common/css/print.css\" media=\"print\" type=\"text/css\" rel=\"stylesheet\" />",
+					"margin-top *?:",
+					"margin-top *?: *?!important",
+					"margin-top ?: ?.*? *?!important",
+					"margin-top ?: ?.*? ?!important",
+					"margin-top ?: ?.*?",
+					"<p class=\"iko_fBold\">",
+					"									<div class=\"txt\">\n										<p>",
+					"<div class=\"txt\">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/beeworks/work/snk_jr3/www/special/sst"
+				},
+				{
+					"path": "/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド"
+				},
+				{
+					"path": "/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 4 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 240.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 60,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+					"settings":
+					{
+						"buffer_size": 5980,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/beeworks/work/kks",
+				"/Users/beeworks/work/kks/financial",
+				"/Users/beeworks/work/kks/financial/factoring"
+			],
+			"file_history":
+			[
+				"/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-3.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-2.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-1.html",
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"10月",
+					"月",
+					"10",
+					"10月",
+					"10",
+					"月",
+					"10",
+					">\n",
+					"10",
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">",
+					"ご注意事項",
+					"wiro_mb",
+					"お支払いに関しての注意事項",
+					"guide",
+					"FA System",
+					"/past/fa_system.html/",
+					"height=\"50\" width=\"50	\" ",
+					"height=\"50\" width=\"50	\"",
+					".jpg",
+					"<p class=\"txtbold\">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/beeworks/work/kks"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 5980,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2720.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 4 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 240.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 63,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/beeworks/work/snk_jr3/www/special",
+				"/Users/beeworks/work/snk_jr3/www/special/sst",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine"
+			],
+			"file_history":
+			[
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-3.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-2.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-1.html",
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" <img src=\"/special/sst/sp/common/images/point/sp_nav_pt",
+					"point-section",
+					"\"point-section",
+					"content-index",
+					"adMenu_close",
+					"data-point-content-index",
+					"10月",
+					"月",
+					"10",
+					"10月",
+					"10",
+					"月",
+					"10",
+					">\n",
+					"10",
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">",
+					"ご注意事項",
+					"wiro_mb",
+					"お支払いに関しての注意事項",
+					"guide"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/beeworks/work/snk_jr3/www/special"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 4 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 64,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/beeworks/work/kks/service/lecture/report.html",
+					"settings":
+					{
+						"buffer_size": 6591,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/beeworks/work/kks/service/lecture/index.xml",
+					"settings":
+					{
+						"buffer_size": 36727,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/beeworks/work/kks/service/lecture/serve.html",
+					"settings":
+					{
+						"buffer_size": 31355,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/beeworks/work/kks/service/lecture/index.html",
+					"settings":
+					{
+						"buffer_size": 4014,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/beeworks/work/kks",
+				"/Users/beeworks/work/kks/service",
+				"/Users/beeworks/work/kks/service/lecture"
+			],
+			"file_history":
+			[
+				"/Users/beeworks/work/kks/service/lecture/serve.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-3.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-2.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-1.html",
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"修一、菅沼",
+					">\n",
+					"\n	",
+					" <img src=\"/special/sst/sp/common/images/point/sp_nav_pt",
+					"point-section",
+					"\"point-section",
+					"content-index",
+					"adMenu_close",
+					"data-point-content-index",
+					"10月",
+					"月",
+					"10",
+					"10月",
+					"10",
+					"月",
+					"10",
+					">\n",
+					"10",
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">",
+					"ご注意事項"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/beeworks/work/kks"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/beeworks/work/kks/service/lecture/report.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6591,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2734,
+										2734
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 683.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/beeworks/work/kks/service/lecture/index.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 36727,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										36479,
+										36479
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": true,
+									"syntax": "Packages/XML/XML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3488.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/beeworks/work/kks/service/lecture/serve.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 31355,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8029,
+										8029
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3561.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/beeworks/work/kks/service/lecture/index.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 4014,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 4 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 66,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/beeworks/work/cojp/htdocs/about/index.html",
+					"settings":
+					{
+						"buffer_size": 7287,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/beeworks/work/cojp",
+				"/Users/beeworks/work/cojp/htdocs",
+				"/Users/beeworks/work/cojp/htdocs/about"
+			],
+			"file_history":
+			[
+				"/Users/beeworks/work/kks/service/lecture/serve.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-3.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-2.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-1.html",
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"修一、菅沼",
+					">\n",
+					"\n	",
+					" <img src=\"/special/sst/sp/common/images/point/sp_nav_pt",
+					"point-section",
+					"\"point-section",
+					"content-index",
+					"adMenu_close",
+					"data-point-content-index",
+					"10月",
+					"月",
+					"10",
+					"10月",
+					"10",
+					"月",
+					"10",
+					">\n",
+					"10",
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">",
+					"ご注意事項"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/beeworks/work/cojp"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/beeworks/work/cojp/htdocs/about/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7287,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2757,
+										2757
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 900.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 4 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 67,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+					"settings":
+					{
+						"buffer_size": 17219,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+					"settings":
+					{
+						"buffer_size": 18420,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+					"settings":
+					{
+						"buffer_size": 17095,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+					"settings":
+					{
+						"buffer_size": 2599,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/beeworks/work/sugotoku/dev/html_divided",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css"
+			],
+			"file_history":
+			[
+				"/Users/beeworks/work/kks/service/lecture/serve.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-3.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-2.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-1.html",
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"                  <p class=\"play\">試聴する</p>",
+					"修一、菅沼",
+					">\n",
+					"\n	",
+					" <img src=\"/special/sst/sp/common/images/point/sp_nav_pt",
+					"point-section",
+					"\"point-section",
+					"content-index",
+					"adMenu_close",
+					"data-point-content-index",
+					"10月",
+					"月",
+					"10",
+					"10月",
+					"10",
+					"月",
+					"10",
+					">\n",
+					"10",
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/beeworks/work/sugotoku/dev/html_divided"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17219,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6200,
+										6200
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1790.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18420,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11856,
+										11856
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4280.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17095,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10983,
+										7065
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"is_xml": false,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2541.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2599,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2545,
+										2545
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_indent": true,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 4 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 68,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"c",
+						"common"
+					],
+					[
+						"bla",
+						"blackfade.css"
+					],
+					[
+						"ic",
+						"icon_down.png	w:40 h:40"
+					],
+					[
+						"im",
+						"images/"
+					],
+					[
+						"div",
+						"div"
+					],
+					[
+						"icon",
+						"icon_screen.png	w:40 h:40"
+					],
+					[
+						"p",
+						"p	Tag"
+					],
+					[
+						"bra",
+						"branch-345"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 374.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 561.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Library/Ruby/Gems/2.0.0/gems"
+			],
+			"file_history":
+			[
+				"/Users/beeworks/work/kks/service/lecture/serve.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/common/css/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/sp/machine/point.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-4.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-3.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-2.html",
+				"/Users/beeworks/work/kks/financial/factoring/schedule-1.html",
+				"/Users/beeworks/work/smile-zemi/deploy/common/css/grade.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/detail/js/controller.js",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch1/テロップ：Chapter1.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch7/テロップ：Chapter7.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-02.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-03.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-04.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-05.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-06.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_08-07.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_06-01.png",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_07-01.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch6/テロップ：Chapter6.txt",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/point/point.css",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/point.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/images/guide/detail/bg_char_05-02.png",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch5/テロップ：Chapter5.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch3/テロップ：Chapter3.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch8/テロップ：Chapter8.txt",
+				"/Volumes/Web-SANKYO/04_SIS/13_動画/10_遊び方ガイド/Ch2/テロップ：Chapter2.txt",
+				"/Users/beeworks/work/glup_test/package.json",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/js/testtest.js",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/beeworks/work/snk_jr3/www/testtest.js",
+				"/Users/beeworks/work/rins/deploy/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/products/index.html",
+				"/Users/beeworks/work/rins/deploy/products/machine/nearinfrared.html",
+				"/Users/beeworks/work/rins/deploy/products/past/fa_system.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai_kashi.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/shousai_style.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/download.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/roller.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/alert.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/download.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/loading.html",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/css/add_css/blackfade.css",
+				"/Users/beeworks/work/sugotoku/dev/html_divided/shousai.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/customer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_04/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/recycle/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_05/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/future/instance_04/contents_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_02/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/employee/instance_03/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/course/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/info_security/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/management/compliance/efforts/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/stakeholder/dealer/index.html",
+				"/Users/beeworks/work/sb-csr_2015/corp/csr/various_needs/instance_01/contents_01/apply/index.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/guide/pawaslo.html",
+				"/Users/beeworks/work/snk_jr3/www/special/sst/common/css/pawaslo.css",
+				"/Users/beeworks/work/rins/deploy/en/products/index.html",
+				"/Users/beeworks/work/rins/deploy/en/sitemap/index.html",
+				"/Users/beeworks/work/rins/deploy/en/products/devices/devicesindex.html",
+				"/Users/beeworks/work/rins/deploy/gn_common/css/07-sitecommon.css",
+				"/Users/beeworks/work/rins/deploy/contact/index.html",
+				"/Users/beeworks/work/rins/deploy/products/discontinued/index.html",
+				"/Users/beeworks/work/rins/deploy/products/soldermask.html",
+				"/Users/beeworks/work/rins/deploy/products/robot.html",
+				"/Users/beeworks/work/rins/deploy/products/drywash.html",
+				"/Users/beeworks/work/rins/deploy/products/industrial/index.html",
+				"/Users/beeworks/work/rins/deploy/products/optical/index.html",
+				"/Users/beeworks/work/rins/deploy/products/trust/index.html",
+				"/Users/beeworks/Downloads/ricoh2013/mfp/past/index.html",
+				"/Users/beeworks/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/beeworks/work/rins/deploy/products/fa_system",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/irinfo/stock/rating/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/group/sbb/privacy/telecom/procedure/index.html",
+				"/Users/beeworks/work/sb-study/lesson/ojima/corp/contact/index.html",
+				"/Users/beeworks/work/github-r_cojp-2015_01/deploy/solution/vc/_index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/en/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/about.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/element/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/bitmap/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/point.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/results.html",
+				"/Users/beeworks/work/github-r_industry_com/font/true_type/list.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/function.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/sample.html",
+				"/Users/beeworks/work/github-r_industry_com/font/layout/tool.html",
+				"/Users/beeworks/work/github-r_industry_com/font/pc/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/charset.html",
+				"/Users/beeworks/work/github-r_industry_com/font/results/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/support/index.html",
+				"/Users/beeworks/work/github-r_industry_com/font/ud/index.html"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/beeworks/work/rins/deploy ,*.css",
+					"/Users/beeworks/work/rins/deploy",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com,*.",
+					"/Users/beeworks/work/github-r_industry_com,*.html",
+					"/Users/beeworks/work/github-r_industry_com/en",
+					"/Users/beeworks/work/github-r_industry_com/en,*.html"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"                  <p class=\"play\">試聴する</p>",
+					"修一、菅沼",
+					">\n",
+					"\n	",
+					" <img src=\"/special/sst/sp/common/images/point/sp_nav_pt",
+					"point-section",
+					"\"point-section",
+					"content-index",
+					"adMenu_close",
+					"data-point-content-index",
+					"10月",
+					"月",
+					"10",
+					"10月",
+					"10",
+					"月",
+					"10",
+					">\n",
+					"10",
+					"margin-right",
+					"あ！ロゴが動いてるわ！このロゴが落ちてきたらイグニッション・ブースト（IB）に突入よ！",
+					"',\n",
+					"}\n",
+					"ISチャレンジ中はレア小役成立でモードアップのチャンスなの。背景の色が変わるほど期待度はアップしていくわよ。",
+					"0]],",
+					"00]],",
+					"]],",
+					"              {'name': 's2_6',\n               'telop': [['ブランク図柄狙いの時のレア小役はこのようなものがあるぞ！',0]],\n              }",
+					"'class': [['chara",
+					"class': [['chara1'",
+					"<img src=\"/special/sst/sp/common/images/point/sp_texy",
+					"/special/sst/sp/common/point/sp_texy_point",
+					"slideSet ",
+					"style=\"width: 340px; height: 260px; float: left;\"",
+					"slide",
+					"slideSet",
+					"/li>",
+					"<li",
+					"snk_",
+					"580",
+					"579",
+					"common/images/point/slide.png",
+					"260px",
+					"170px",
+					"<img src=\"common/images/point/right_nv_pt2",
+					"<li></li>",
+					"<div></div>",
+					"FA",
+					"gradient( linear, left top, left bottom, color-stop(0, rgb(63,172,136)), color-stop(1, rgb(88,210,170)) );",
+					"gradient(linear, left top, left bottom,color-stop (0, rgb(63,172,136) 0%,) color-stop(0, rgb(88,210,170) 100%));",
+					"linear",
+					"-image",
+					";\n",
+					"max-",
+					" width=\"75\"",
+					"music_img-01.png\"",
+					" width=\"75\" height=\"75\">",
+					"<p>",
+					".shousai-box p",
+					"app",
+					"font-weight",
+					"24px;",
+					"img",
+					".shousai-btn-box .btn-more",
+					"shousai-btn-box",
+					"color",
+					"144",
+					"dd",
+					"dt",
+					"                      <dl>",
+					"                <div class=\"songinfo\">",
+					"                  <a href=\"#\" class=\"arr02\">",
+					"                  <div>\n                    <p>2015/09/24</p>\n                  </div>",
+					"                  <div>\n                    <p></p>\n                  </div>",
+					"                    <dl>\n                      <dt>Carly Rae Jepsen</dt>\n                      <dd>アニメ『七つの大罪シーズン2』オープニングテーマ</dd>\n                    </dl>",
+					"<dl>Carly Rae Jepsen</dl>",
+					"dl",
+					"dt",
+					"dl>",
+					"dt",
+					"dl>",
+					"dl",
+					"dt",
+					"shousai-box",
+					"-btn-",
+					"\">\n",
+					"result-block",
+					"150",
+					"class=",
+					"dd class",
+					"Vintage",
+					"div",
+					"全クルーを対象に",
+					"また、2010年度は、データセンターおよび",
+					"index_pic_06.jpg",
+					"index_pic_05.jpg",
+					"senior_service",
+					"小学生向け体験型環境教育プログラム「未来×エネルギー プロジェクト」",
+					"聴覚障がい者支援アプリケーション「こえとら」",
+					"MB：DO-IT Japan プログラム概要",
+					"障がいのある若者を将来のリーダーへ養成するプログラムを支援",
+					"ICTを活用して",
+					"2013年1月　ICTを活用して障がい児の学習・生活支援を行う「魔法のランププロジェクト」を開始",
+					"過去の取り組みと成果",
+					"キッズデザイン賞",
+					"障がいのある子どもの学習と社会参加を支援",
+					"携帯電話で聴覚障がい者の\"知る権利\"",
+					"携帯電話で聴覚障がい者の\"知る権利\"をサポート＞普及に向けて",
+					"誰とでもコミュニケーションがとれる社会を",
+					"孫",
+					"ソフトバンクでは、「情報革命で人々を幸せに」という経営理念の下、",
+					"ソフトバンクは、「情報革命で人々を幸せに」という経営理念の下、",
+					"フトバンクは、「情報革命で人々を幸せに」という経営理念の下",
+					"opinion",
+					"instance_04/",
+					"利用可能",
+					"index_pic_11.gif",
+					"株式会社IDCフロンティア",
+					"ヤフー！ウォレット",
+					"お問い合わせ",
+					"見出し",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/course/\">コース内容・料金</a></li>",
+					"<li><em><span class=\"note\">概要</span></em></li>",
+					"<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/\">概要</a></li>\n<li><em><span class=\"note\">コース内容・料金</span></em></li>\n<li><a href=\"/corp/csr/various_needs/instance_01/contents_01/apply/\">お申し込み・受講までの流れ</a></li>",
+					"http://preview.pc.stg.1st.wiro.jp/corp/set/data/csr/various_needs/instance_01/contents_01/img/index_pic_01.jpg",
+					"注意事項",
+					"col",
+					"<col class=\"w-30\">\n<col>\n<col class=\"w-20\">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Library/Ruby/Gems/2.0.0/gems"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 4 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"untitled"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 222.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 69,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
